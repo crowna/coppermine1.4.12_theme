@@ -1,4 +1,9 @@
-
+/**
+* @file coppergiz\javascript\jquery-cpr1.4.12-giz.js
+* @author Jeremy Crowe
+* @version 150827_001
+* @date 27-08-15
+*/
 
 
 /////// -- Menus -- ///////

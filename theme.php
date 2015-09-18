@@ -16,6 +16,12 @@
   $Author: gaugau $
   $Date: 2007-06-29 11:35:30 +0200 (Fr, 29 Jun 2007) $
 **********************************************/
+/**
+* @file coppergiz\theme.php
+* @author Jeremy Crowe
+* @version 150827_001
+* @date 27-08-15
+*/
 
 // ------------------------------------------------------------------------- //
 // This theme has had all redundant CORE items removed                       //
